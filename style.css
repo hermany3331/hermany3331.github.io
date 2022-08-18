@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: yellow;
+}
+
+
+.header-1 {
+    background-color: yellowgreen;
+}
+
+.img-1 {
+    background-color: red;
+}
+h1{
+    padding : 20px;
+    color: whitesmoke;
+}
+
+img {
+    width : 325px;
+    height : 450px;
+    padding : 20px;
+    align-self: center;
+}
+
+p {
+    color: black;
+}
+
+
